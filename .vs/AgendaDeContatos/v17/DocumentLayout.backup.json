@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\projetos\\agendadecontatos\\views\\contatos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|solutionrelative:views\\contatos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\projetos\\agendadecontatos\\views\\contatos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|solutionrelative:views\\contatos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\projetos\\agendadecontatos\\views\\contatos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|solutionrelative:views\\contatos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\projetos\\agendadecontatos\\views\\contatos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|solutionrelative:views\\contatos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\projetos\\agendadecontatos\\views\\contatos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,25 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contatos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Contatos\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAANAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contatos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Details.cshtml*",
+              "RelativeToolTip": "Views\\Contatos\\Details.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T01:56:56.262Z",
+              "WhenOpened": "2025-02-04T02:42:10.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contatos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Contatos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T02:39:26.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contatos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Edit.cshtml*",
+              "RelativeToolTip": "Views\\Contatos\\Edit.cshtml*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-04T02:32:25.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Contatos\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Delete.cshtml*",
-              "RelativeToolTip": "Views\\Contatos\\Delete.cshtml*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Contatos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-04T01:27:29.524Z",
               "EditorCaption": ""

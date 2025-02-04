@@ -1,13 +1,14 @@
 ﻿@model AgendaDeContatos.Models.Contato
 
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Editar Contato";
 }
 
-<h1>Edit</h1>
+<h1>@ViewData["Title"]</h1>
 
-<h4>Contato</h4>
+<h4>Dados do contato @Model.Nome</h4>
 <hr />
+
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Edit">
@@ -29,14 +30,11 @@
                 <span asp-validation-for="Email" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+                <input type="submit" value="Editar" class="btn btn-info" />
+                <a asp-action="Index" class="btn btn-warning">Voltar</a>
             </div>
         </form>
     </div>
-</div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
 </div>
 
 @section Scripts {
