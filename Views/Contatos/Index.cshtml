@@ -1,14 +1,13 @@
 ﻿@model IEnumerable<AgendaDeContatos.Models.Contato>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Minha Agenda de Contatos";
 }
 
-<h1>Index</h1>
+<h1>@ViewData["Title"]</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+<a class="btn btn-primary" asp-action="Create"><span class="fa fa-plus"></span> Adicionar Contato</a>
+
 <table class="table">
     <thead>
         <tr>
@@ -37,11 +36,16 @@
                 @Html.DisplayFor(modelItem => item.Email)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a asp-action="Details" class="btn btn-warning" asp-route-id="@item.Id" title="Ver detalhes">
+                    <span class="fa fa-search"></span>
+                </a>
+                <a asp-action="Edit" class="btn btn-info" asp-route-id="@item.Id" title="Editar contato">
+                    <span class="fa fa-pencil-alt"></span>
+                </a>
+                <a asp-action="Delete" class="btn btn-danger" asp-route-id="@item.Id" title="Excluir contato">
+                    <span class="fa fa-trash"></span>
+                </a>
             </td>
-        </tr>
-}
+        </tr>}
     </tbody>
 </table>

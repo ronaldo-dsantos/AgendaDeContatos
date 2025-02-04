@@ -17,7 +17,6 @@ C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\projetos\AgendaDeContatos\ob
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\projetos\AgendaDeContatos\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\projetos\AgendaDeContatos\obj\Debug\net9.0\scopedcss\bundle\AgendaDeContatos.styles.css
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\projetos\AgendaDeContatos\obj\Debug\net9.0\scopedcss\projectbundle\AgendaDeContatos.bundle.scp.css
-C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\projetos\AgendaDeContatos\obj\Debug\net9.0\compressed\zgzflgkcyp-b9sayid5wm.gz
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\projetos\AgendaDeContatos\obj\Debug\net9.0\compressed\b5s5qqbxz5-61n19gt1b8.gz
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\projetos\AgendaDeContatos\obj\Debug\net9.0\compressed\9j9zu7kag6-xtxxf3hu2r.gz
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\projetos\AgendaDeContatos\obj\Debug\net9.0\compressed\b4r8oqohj2-bqjiyaj88i.gz
@@ -337,3 +336,6 @@ C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\projetos\AgendaDeContatos\bi
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\projetos\AgendaDeContatos\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\projetos\AgendaDeContatos\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\projetos\AgendaDeContatos\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\projetos\AgendaDeContatos\obj\Debug\net9.0\AgendaDeContatos.sourcelink.json
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\projetos\AgendaDeContatos\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\projetos\AgendaDeContatos\obj\Debug\net9.0\compressed\zgzflgkcyp-rilnrfcajr.gz
