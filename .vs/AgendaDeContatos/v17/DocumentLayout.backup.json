@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\projetos\\agendadecontatos\\controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|solutionrelative:controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\projetos\\agendadecontatos\\views\\contatos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|solutionrelative:views\\contatos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\projetos\\agendadecontatos\\views\\contatos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|solutionrelative:views\\contatos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\projetos\\agendadecontatos\\views\\contatos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|solutionrelative:views\\contatos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\projetos\\agendadecontatos\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|solutionrelative:models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\projetos\\agendadecontatos\\views\\contatos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|solutionrelative:views\\contatos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|c:\\users\\ronal\\onedrive\\documentos\\desenvolvedor.io\\projetos\\agendadecontatos\\views\\contatos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ACFB1D-249F-428A-9790-619278946956}|AgendaDeContatos.csproj|solutionrelative:views\\contatos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Contato.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Models\\Contato.cs",
-              "RelativeDocumentMoniker": "Models\\Contato.cs",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Models\\Contato.cs",
-              "RelativeToolTip": "Models\\Contato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T03:21:39.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contatos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Contatos\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T03:17:29.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContatosController.cs",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Controllers\\ContatosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ContatosController.cs",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Controllers\\ContatosController.cs*",
-              "RelativeToolTip": "Controllers\\ContatosController.cs*",
-              "ViewState": "AgIAACUAAAAAAAAAAAA5wDEAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T03:14:14.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contatos\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Details.cshtml",
-              "RelativeToolTip": "Views\\Contatos\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T02:42:10.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contatos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Create.cshtml",
-              "RelativeToolTip": "Views\\Contatos\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T02:39:26.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Contatos\\Edit.cshtml",
               "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Edit.cshtml",
               "RelativeToolTip": "Views\\Contatos\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T02:32:25.468Z",
+              "WhenOpened": "2025-02-04T20:34:40.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contatos\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Contatos\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contatos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\projetos\\AgendaDeContatos\\Views\\Contatos\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Contatos\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-04T01:27:29.524Z"
+              "WhenOpened": "2025-02-04T20:34:23.846Z",
+              "EditorCaption": ""
             }
           ]
         }
