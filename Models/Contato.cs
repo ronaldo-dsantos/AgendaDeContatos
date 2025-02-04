@@ -11,9 +11,9 @@ namespace AgendaDeContatos.Models
         [StringLength(60, MinimumLength = 2, ErrorMessage = "O campo {0} precisa ter entre {2} e {1} caracteres")]
         public string Nome { get; set; }
 
-        [Phone(ErrorMessage = "Telefone inválido")]
         [Required(ErrorMessage = "O campo telefone é obrigatório")]
-        [StringLength(15, MinimumLength = 10, ErrorMessage = "O campo {0} precisa ter entre {2} e {1} caracteres")]
+        [StringLength(15, MinimumLength = 14, ErrorMessage = "O campo {0} precisa ter o formato (XX) XXXXX-XXXX")]
+        [RegularExpression(@"\(\d{2}\) \d{4,5}-\d{4}", ErrorMessage = "O campo Telefone deve estar no formato (XX) XXXXX-XXXX")]
         public string Telefone { get; set; }
 
         [EmailAddress(ErrorMessage = "E-mail inválido")]

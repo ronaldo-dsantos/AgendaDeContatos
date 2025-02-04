@@ -33,3 +33,9 @@ body {
 .form-group {
     padding-bottom: 10px;
 }
+
+.form-control::placeholder {
+    color: #d3d3d3;
+    font-style: italic;
+    opacity: 1;
+}

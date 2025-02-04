@@ -34,13 +34,13 @@ namespace AgendaDeContatos.Controllers
             return View(contato);
         }
 
-        [Route("novo")]
+        [Route("adicionar")]
         public IActionResult Create()
         {
             return View();
         }
 
-        [HttpPost("novo")]
+        [HttpPost("adicionar")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Nome,Telefone,Email")] Contato contato)
         {
@@ -48,6 +48,8 @@ namespace AgendaDeContatos.Controllers
             {
                 _context.Add(contato);
                 await _context.SaveChangesAsync();
+                TempData["Mensagem"] = "Contato adicionado com sucesso!";
+
                 return RedirectToAction(nameof(Index));
             }
             return View(contato);
@@ -91,6 +93,7 @@ namespace AgendaDeContatos.Controllers
                         throw;
                     }
                 }
+                TempData["Mensagem"] = "Contato editado com sucesso!";
                 return RedirectToAction(nameof(Index));
             }
             return View(contato);
@@ -120,6 +123,7 @@ namespace AgendaDeContatos.Controllers
             }
 
             await _context.SaveChangesAsync();
+            TempData["Mensagem"] = "Contato excluído com sucesso!";
             return RedirectToAction(nameof(Index));
         }
 
